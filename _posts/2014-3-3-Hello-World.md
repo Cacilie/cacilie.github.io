@@ -1,10 +1,17 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡Bienvenidos!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+¡Hola, soy Edgar; desarollador FullStack y escritor! He creado este blog
+para compartir sobre lo que me apasiona.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Trabajo día a día desarrollando en React Js, utilizando Typescript. Tengo
+experiencia en React Native y Swift. También tengo experiencia con APIs y microservicios (Feathers, Laravel, Express).
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+En cuanto a bases de datos, he trabajado con Mongo y SQL.
+
+Programación en la nube con Azure.
+
+Serverless con firebase.
+
