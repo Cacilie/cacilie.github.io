@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Desarrollador de Software Mexicano.
 
-### More Information
+FullStack Developer, utilizando tecnologías como Typescript, React, Material UI, Mocha, Jest.
 
-A place to include any other types of information that you'd like to include about yourself.
+JS implementando logicas de negocio en JavaScript para solucionar problemas relacionados con el sales commission tracking.
 
-### Contact me
+He trabajado como programador de React Js y React Native.
+Otras tecnologías con las que he trabajado son, Laravel, Firebase, MongoDB, Mongoose, Feathers JS.
 
-[email@domain.com](mailto:email@domain.com)
+Hablo Alemán en un nivel intermedio, Inglés, Español y aprendo Japonés.
+Mis siguiente objetivo como lengua es el Coreano.
+Me gusta la literatura, tanto leer como escribir. He publicado dos obras en Amazon. 
