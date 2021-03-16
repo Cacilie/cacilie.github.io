@@ -3,9 +3,6 @@ layout: post
 title: Svelte, el lenguaje de programación
 ---
 
-
-# Svelte, el lenguaje de programación.
-
 Seguramente han escuchado de frameworks y librerias como Angular, Ember, React, Vue. Frameworks y librerias sobre JS para poder desarollar applicaciones web de una manera mucho más sencilla que con vanilla js.
 
 Yo personalmente, día a día, desarollo en React Js y cubre perfectamente todas mis necesidades.
