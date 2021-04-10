@@ -4,7 +4,7 @@ title: (DE) Javascript, Machen Sie seine sehr erste Javascript programm machen.
 ---
 Hallo, heute Ich wird javascript einfach machen. Möglicherweise Sie sind neue zu Javascript, aber bitte, nicht Angst.
 
-##Was ist Javascript?
+## Was ist Javascript?
 Heutzutage, Wir alles benutzen der Internet. Im Internet, alles im web sites und apps, haben  Javascript. Zum beispeil, Facebook, Twitter, Youtube, alles haben Javascript.
 
 Sie können Javascript benutzen wenn Sie wöllen dynamischen websites und apps bauen.
@@ -12,7 +12,7 @@ Sie können Javascript benutzen wenn Sie wöllen dynamischen websites und apps b
 Kurz gesagt, Javascript ist the Web Programmiersprache. Sie können Javascript benutzen wenn Sie wöllen seine wunsch-app bauen. Man kann web oder handy apps mit Javascript bauen and das ist sehr einfach.
 
 
-##Wie kann man mit Javascript anfang?
+## Wie kann man mit Javascript anfang?
 
 Wir können Javascript programmeren mit jemand web browser. Bitte, klic auf this url: [Bitte](https://onecompiler.com/javascript)
 
