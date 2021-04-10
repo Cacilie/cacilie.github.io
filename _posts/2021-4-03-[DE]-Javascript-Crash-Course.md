@@ -2,8 +2,6 @@
 layout: post
 title: [DE] Javascript, Machen Sie seine sehr erste Javascript programm machen.
 ---
-
-
 Hallo, heute Ich wird javascript einfach machen. Möglicherweise Sie sind neue zu Javascript, aber bitte, nicht Angst.
 
 ##Was ist Javascript?
