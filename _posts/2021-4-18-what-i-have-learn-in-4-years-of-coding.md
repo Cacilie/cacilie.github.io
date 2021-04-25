@@ -107,7 +107,7 @@ It is true that knowing the language helps you a lot. But the programming langua
 ---
 ### Share what you know.
 
-The best way to lern something, is to teach it. Everyone has something to teach and to share to the community, so, do not worry with things like:
+The best way to learn something, is to teach it. Everyone has something to teach and to share to the community, so, do not worry with things like:
 - oh but, i am a rocky, i do not know anything.
 - oh, people is going to laught
 
