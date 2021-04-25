@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I have learned in 4 years of coding
+title: [EN] What I have learned in 4 years of coding
 ---
 
 Four years is maybe not a lot, but it is a good time to say that I have learned many things. There has been four years since I took my first job as a developer.
@@ -98,7 +98,7 @@ I do not know if I explained myself but, there are different paths to achieve so
 So, I want to start this with
 > Everything is at google!
 
-And I am not talking about all the info that google have about you (just kidding, perhaps :p) but about the knowladge that it is already there.
+And I am not talking about all the info that google have about you (just kidding, perhaps :p) but about the knowledge that it is already there.
 
 What I am trying to say is that, if you know how to solve something, maybe you do not need to know a lot the language that you are going to use, because you can type at google `python for syntax`
 
@@ -111,7 +111,7 @@ The best way to learn something, is to teach it. Everyone has something to teach
 - oh but, i am a rocky, i do not know anything.
 - oh, people is going to laught
 
-Everyone has something to share. And if you share your knowladge, you are helping the community but also, you are helping youserlf.
+Everyone has something to share. And if you share your knowledge, you are helping the community but also, you are helping youserlf.
 
 
 ---
