@@ -32,7 +32,7 @@ Remember that,
 
 Falling on the valley of the despair will lead you to nowhere, so remember to be en calm, everything, one day, will be solved, you just need to keep trying with patience.
 ****
-> Every problem on this world may have a solution, the patience one are the ones to fix them. (me again)
+> Every problem on this world may have a solution, the ones with patience are the ones to fix them. (me again)
 
 ---
 ### Impostor syndrom may not go
@@ -41,9 +41,9 @@ You know, do not matter what you do, the impostor syndrom will be there.
 
 ![impostor](https://media.giphy.com/media/65FByuqgFNodi9wrcI/giphy.gif)
 
-As I'd said, I've coding for 4 years and maybe it is not alone, but it maybe does not matter how good you become in something, you will be having doubts about yourself time to time.
+As I'd said, I've coding for 4 years and maybe it is not a lot. But belive me, it maybe does not matter how good you become in something, you will be having doubts about yourself time to time.
 
-I do not have really and advice on this, I mean, I dont feal event sure of writting this blog post. But let me tell you something, every time I feel this impostor syndrom is tackling me, and I feed that I'm not at good as people belive (Boss, coworkers, even love ones), at the end, everything goes well!
+I do not have really and advice on this, I mean, I don't feal event sure of writting this blog post. But let me tell you something, every time I feel this impostor syndrom is tackling me, and I feel that I'm not at good as people belive (Boss, coworkers, even love ones), at the end, everything goes well!
 
 So, keep walking! Belive in youself, be patient.
 
@@ -73,7 +73,7 @@ Please do not say something like:
 "oh, I am sorry, I am not interested in 
 kotlin, I only do web".
 
-Do not close doors that they are not even opened!
+>Do not close doors that they are not even opened!
 
 Maybe one day kotlin will save your life! or at least, your job!
 
@@ -88,9 +88,9 @@ Being stubborn is good if that means 'I am sure I will solve this"
 
 But it is not so good it that means not trying different ways of solving something. 
 
-If you are fixing like a blocker, and you do not know how to proceed with something, or a way of fixing something is not going as expected, or you cannot continue with that approach, TRY A NEW ONE!
+If you are facing like a blocker, and you do not know how to proceed with something, or a way of fixing something is not going as expected, or you cannot continue with that approach, TRY A NEW ONE!
 
-This is one of the first advices I always do. Somethings may not work, so try different ways to solve something.
+This is one of the first advices I always do. Some things may not work, so try different ways to solve something.
 
 I do not know if I explained myself but, there are different paths to achieve something. If you see that something is getting really complex to follow, try a new path!
 
