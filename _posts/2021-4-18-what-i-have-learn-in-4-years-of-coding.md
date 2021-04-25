@@ -3,8 +3,6 @@ layout: post
 title: What I have learned in 4 years of coding
 ---
 
-## What I have learned in 4 years of coding.
-
 Four years is maybe not a lot, but it is a good time to say that I have learned many things. There has been four years since I took my first job as a developer.
 
 It is said that everyone has something to share, so I wanna do it with this bullet list of things I learned.
