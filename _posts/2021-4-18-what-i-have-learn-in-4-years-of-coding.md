@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [EN] What I have learned in 4 years of coding
+title: (EN) What I have learned in 4 years of coding
 ---
 
 Four years is maybe not a lot, but it is a good time to say that I have learned many things. There has been four years since I took my first job as a developer.
