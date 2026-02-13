@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node compiler.js",
-    "dev": "nodemon --watch 'templates/' --ext '*'  --exec 'npm run build'",
-	"deploy" : "npm run build && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -18,10 +16,7 @@
   ],
   "author": "Edgar Arroyo",
   "license": "MIT",
-  "dependencies": {
-    "nodemon": "^2.0.19",
-    "pug": "^3.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
