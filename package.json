@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "generate-readme": "node scripts/generate-readme.js"
   },
   "repository": {
     "type": "git",
@@ -15,7 +16,7 @@
     "Portafolio"
   ],
   "author": "Edgar Arroyo",
-  "license": "MIT",
+  "license": "Copyright (c) 2026 Edgar Antonio Arroyo Sanchez.",
   "dependencies": {},
   "devDependencies": {
     "gh-pages": "^4.0.0"
