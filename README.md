@@ -1,6 +1,6 @@
 # [cacilie.github.io](https://cacilie.github.io)
 
-# Edgar Antonio Arroyo
+# E. A. Arroyo Sanchez
 
 Open Source portafolio
 
